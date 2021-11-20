@@ -102,7 +102,7 @@ class DetailPage extends StatelessWidget {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: Text('`我是二级页面'),
+        title: Text('`我是二级页面的'),
         centerTitle: true,
       ),
       body: Center(
