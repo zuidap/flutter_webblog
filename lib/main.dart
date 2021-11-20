@@ -20,7 +20,7 @@ class HomePage extends StatelessWidget {
     return Scaffold(
       backgroundColor: Colors.grey,
       appBar: AppBar(
-        title: Text('我是居中标题23'),
+        title: Text('我是居中标题213'),
         centerTitle: true,
       ),
       body: ListView(
